@@ -1,0 +1,10 @@
+streamlit
+streamlit-drawable-canvas
+diffusers
+transformers
+torch
+Pillow
+opencv-python
+ultralytics
+numpy
+xformers
